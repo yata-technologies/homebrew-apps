@@ -5,7 +5,7 @@ cask "folda" do
   url "https://pub-33dd39159ed040fda36fa3c2635272bd.r2.dev/Folda-#{version}.dmg"
   name "Folda"
   desc "Dual-pane macOS file manager"
-  homepage "https://github.com/yata-technologies/multi-filer"
+  homepage "https://folda.pages.dev/"
 
   app "Folda.app"
 
