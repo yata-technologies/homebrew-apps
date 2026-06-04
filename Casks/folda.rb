@@ -1,6 +1,6 @@
 cask "folda" do
-  version "0.1.0"
-  sha256 "e53657278c23bdfee3b09c3b5176fd678d49293a341ff9e777b7fd09ce9eac72"
+  version "0.2.0"
+  sha256 "c7aa760b6f9256a34ddac10d519f29a39dae0abd353d170e93145637ba9d1744"
 
   url "https://pub-33dd39159ed040fda36fa3c2635272bd.r2.dev/Folda-#{version}.dmg"
   name "Folda"
