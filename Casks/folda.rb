@@ -1,8 +1,8 @@
 cask "folda" do
-  version "0.2.0"
-  sha256 "c7aa760b6f9256a34ddac10d519f29a39dae0abd353d170e93145637ba9d1744"
+  version "0.4.0"
+  sha256 "ccece36bb22cd8c77bde3cd6a8a9312fbae584e7af5ddb01a0e48493077e60f9"
 
-  url "https://pub-33dd39159ed040fda36fa3c2635272bd.r2.dev/Folda-#{version}.dmg"
+  url "https://pub-29ef19c089e742b7bfa42c0c5ac5aba7.r2.dev/Folda-#{version}.dmg"
   name "Folda"
   desc "Dual-pane macOS file manager"
   homepage "https://folda.pages.dev/"
